@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Forest"
+title: "The Forest Chapter 1"
 ---
 
 ## Chapter 1
